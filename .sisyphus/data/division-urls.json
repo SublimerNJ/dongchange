@@ -1,0 +1,552 @@
+{
+  "division_1_1": [
+    {
+      "idx": "15",
+      "pid": "1",
+      "title": "일반재산범죄",
+      "url": "division_1_1.html?idx=15"
+    },
+    {
+      "idx": "25",
+      "pid": "1",
+      "title": "사행·강력·마약",
+      "url": "division_1_1.html?idx=25"
+    },
+    {
+      "idx": "16",
+      "pid": "1",
+      "title": "기업범죄",
+      "url": "division_1_1.html?idx=16"
+    },
+    {
+      "idx": "26",
+      "pid": "1",
+      "title": "공안선거",
+      "url": "division_1_1.html?idx=26"
+    },
+    {
+      "idx": "17",
+      "pid": "1",
+      "title": "디지털포렌식",
+      "url": "division_1_1.html?idx=17"
+    },
+    {
+      "idx": "18",
+      "pid": "1",
+      "title": "조세(형사)",
+      "url": "division_1_1.html?idx=18"
+    },
+    {
+      "idx": "19",
+      "pid": "1",
+      "title": "영업비밀·지적재산권(수사)",
+      "url": "division_1_1.html?idx=19"
+    },
+    {
+      "idx": "82",
+      "pid": "1",
+      "title": "영업비밀·부정경쟁행위(수사)",
+      "url": "division_1_1.html?idx=82"
+    },
+    {
+      "idx": "20",
+      "pid": "1",
+      "title": "여성·학교폭력·성범죄",
+      "url": "division_1_1.html?idx=20"
+    },
+    {
+      "idx": "21",
+      "pid": "1",
+      "title": "반부패·뇌물",
+      "url": "division_1_1.html?idx=21"
+    },
+    {
+      "idx": "22",
+      "pid": "1",
+      "title": "식품의료보건",
+      "url": "division_1_1.html?idx=22"
+    },
+    {
+      "idx": "24",
+      "pid": "1",
+      "title": "외사·관세",
+      "url": "division_1_1.html?idx=24"
+    },
+    {
+      "idx": "27",
+      "pid": "1",
+      "title": "해양경찰·산업안전",
+      "url": "division_1_1.html?idx=27"
+    },
+    {
+      "idx": "104",
+      "pid": "1",
+      "title": "딥페이크·사이버 범죄 대응 전담팀",
+      "url": "division_1_1.html?idx=104"
+    },
+    {
+      "idx": "103",
+      "pid": "1",
+      "title": "여성·아동·성범죄 대응센터",
+      "url": "division_1_1.html?idx=103"
+    },
+    {
+      "idx": "107",
+      "pid": "1",
+      "title": "여성청소년범죄검경대응팀",
+      "url": "division_1_1.html?idx=107"
+    },
+    {
+      "idx": "28",
+      "pid": "2",
+      "title": "일반민(상)·형사",
+      "url": "division_1_1.html?idx=28"
+    },
+    {
+      "idx": "30",
+      "pid": "2",
+      "title": "일반행정·헌법소송",
+      "url": "division_1_1.html?idx=30"
+    },
+    {
+      "idx": "31",
+      "pid": "2",
+      "title": "특수행정",
+      "url": "division_1_1.html?idx=31"
+    },
+    {
+      "idx": "32",
+      "pid": "2",
+      "title": "이혼·상속",
+      "url": "division_1_1.html?idx=32"
+    },
+    {
+      "idx": "33",
+      "pid": "2",
+      "title": "영업비밀·지적재산권(재판)",
+      "url": "division_1_1.html?idx=33"
+    },
+    {
+      "idx": "34",
+      "pid": "2",
+      "title": "상사중재",
+      "url": "division_1_1.html?idx=34"
+    },
+    {
+      "idx": "35",
+      "pid": "2",
+      "title": "민사집행",
+      "url": "division_1_1.html?idx=35"
+    },
+    {
+      "idx": "36",
+      "pid": "2",
+      "title": "교회분쟁",
+      "url": "division_1_1.html?idx=36"
+    },
+    {
+      "idx": "37",
+      "pid": "2",
+      "title": "교육 및 사학분쟁",
+      "url": "division_1_1.html?idx=37"
+    },
+    {
+      "idx": "38",
+      "pid": "2",
+      "title": "언론소송",
+      "url": "division_1_1.html?idx=38"
+    },
+    {
+      "idx": "39",
+      "pid": "2",
+      "title": "종중소송",
+      "url": "division_1_1.html?idx=39"
+    },
+    {
+      "idx": "40",
+      "pid": "2",
+      "title": "기업횡령배임 공판",
+      "url": "division_1_1.html?idx=40"
+    },
+    {
+      "idx": "89",
+      "pid": "2",
+      "title": "가족법센터",
+      "url": "division_1_1.html?idx=89"
+    },
+    {
+      "idx": "102",
+      "pid": "2",
+      "title": "성범죄원스탑대응센터",
+      "url": "division_1_1.html?idx=102"
+    },
+    {
+      "idx": "41",
+      "pid": "3",
+      "title": "기업자문",
+      "url": "division_1_1.html?idx=41"
+    },
+    {
+      "idx": "52",
+      "pid": "3",
+      "title": "자산운용",
+      "url": "division_1_1.html?idx=52"
+    },
+    {
+      "idx": "42",
+      "pid": "3",
+      "title": "M&A·경영권 분쟁",
+      "url": "division_1_1.html?idx=42"
+    },
+    {
+      "idx": "43",
+      "pid": "3",
+      "title": "기업윤리경영지원",
+      "url": "division_1_1.html?idx=43"
+    },
+    {
+      "idx": "44",
+      "pid": "3",
+      "title": "회생·파산",
+      "url": "division_1_1.html?idx=44"
+    },
+    {
+      "idx": "45",
+      "pid": "3",
+      "title": "중소기업",
+      "url": "division_1_1.html?idx=45"
+    },
+    {
+      "idx": "46",
+      "pid": "3",
+      "title": "스타트업",
+      "url": "division_1_1.html?idx=46"
+    },
+    {
+      "idx": "48",
+      "pid": "3",
+      "title": "스포츠·엔터테인먼트",
+      "url": "division_1_1.html?idx=48"
+    },
+    {
+      "idx": "90",
+      "pid": "3",
+      "title": "기업법센터",
+      "url": "division_1_1.html?idx=90"
+    },
+    {
+      "idx": "100",
+      "pid": "3",
+      "title": "엔터테인먼트",
+      "url": "division_1_1.html?idx=100"
+    },
+    {
+      "idx": "49",
+      "pid": "4",
+      "title": "부동산개발금융",
+      "url": "division_1_1.html?idx=49"
+    },
+    {
+      "idx": "57",
+      "pid": "4",
+      "title": "기업금융·상장심사",
+      "url": "division_1_1.html?idx=57"
+    },
+    {
+      "idx": "54",
+      "pid": "4",
+      "title": "신탁",
+      "url": "division_1_1.html?idx=54"
+    },
+    {
+      "idx": "55",
+      "pid": "4",
+      "title": "금융투자소송",
+      "url": "division_1_1.html?idx=55"
+    },
+    {
+      "idx": "56",
+      "pid": "4",
+      "title": "국제분쟁·거래",
+      "url": "division_1_1.html?idx=56"
+    },
+    {
+      "idx": "95",
+      "pid": "4",
+      "title": "가상자산·금융 규제 대응",
+      "url": "division_1_1.html?idx=95"
+    },
+    {
+      "idx": "81",
+      "pid": "5",
+      "title": "건설송무",
+      "url": "division_1_1.html?idx=81"
+    },
+    {
+      "idx": "59",
+      "pid": "5",
+      "title": "부동산·건설 소송",
+      "url": "division_1_1.html?idx=59"
+    },
+    {
+      "idx": "60",
+      "pid": "5",
+      "title": "정부계약·입찰",
+      "url": "division_1_1.html?idx=60"
+    },
+    {
+      "idx": "85",
+      "pid": "5",
+      "title": "공공계약",
+      "url": "division_1_1.html?idx=85"
+    },
+    {
+      "idx": "61",
+      "pid": "5",
+      "title": "건설중재",
+      "url": "division_1_1.html?idx=61"
+    },
+    {
+      "idx": "62",
+      "pid": "5",
+      "title": "부동산개발·신탁",
+      "url": "division_1_1.html?idx=62"
+    },
+    {
+      "idx": "63",
+      "pid": "5",
+      "title": "재개발·재건축",
+      "url": "division_1_1.html?idx=63"
+    },
+    {
+      "idx": "64",
+      "pid": "5",
+      "title": "도시개발 정비사업",
+      "url": "division_1_1.html?idx=64"
+    },
+    {
+      "idx": "65",
+      "pid": "5",
+      "title": "택지보상 및 개발",
+      "url": "division_1_1.html?idx=65"
+    },
+    {
+      "idx": "91",
+      "pid": "5",
+      "title": "임대차분쟁대응",
+      "url": "division_1_1.html?idx=91"
+    },
+    {
+      "idx": "92",
+      "pid": "5",
+      "title": "부동산시장 위기대응",
+      "url": "division_1_1.html?idx=92"
+    },
+    {
+      "idx": "67",
+      "pid": "6",
+      "title": "조세(형사)",
+      "url": "division_1_1.html?idx=67"
+    },
+    {
+      "idx": "68",
+      "pid": "6",
+      "title": "조세행정(재판)",
+      "url": "division_1_1.html?idx=68"
+    },
+    {
+      "idx": "69",
+      "pid": "6",
+      "title": "조세자문 및 불복",
+      "url": "division_1_1.html?idx=69"
+    },
+    {
+      "idx": "99",
+      "pid": "6",
+      "title": "조세 경정청구 및 불복",
+      "url": "division_1_1.html?idx=99"
+    },
+    {
+      "idx": "71",
+      "pid": "7",
+      "title": "영업비밀·지적재산권(수사)",
+      "url": "division_1_1.html?idx=71"
+    },
+    {
+      "idx": "83",
+      "pid": "7",
+      "title": "영업비밀·부정경쟁행위(수사)",
+      "url": "division_1_1.html?idx=83"
+    },
+    {
+      "idx": "72",
+      "pid": "7",
+      "title": "지적재산권·영업비밀(재판·자문)",
+      "url": "division_1_1.html?idx=72"
+    },
+    {
+      "idx": "96",
+      "pid": "7",
+      "title": "IP(특허·디자인·상표·영업비밀) 분쟁대응",
+      "url": "division_1_1.html?idx=96"
+    },
+    {
+      "idx": "73",
+      "pid": "8",
+      "title": "공정거래",
+      "url": "division_1_1.html?idx=73"
+    },
+    {
+      "idx": "74",
+      "pid": "9",
+      "title": "노동",
+      "url": "division_1_1.html?idx=74"
+    },
+    {
+      "idx": "75",
+      "pid": "10",
+      "title": "해외",
+      "url": "division_1_1.html?idx=75"
+    },
+    {
+      "idx": "76",
+      "pid": "10",
+      "title": "국민권익",
+      "url": "division_1_1.html?idx=76"
+    },
+    {
+      "idx": "78",
+      "pid": "10",
+      "title": "블록체인 · 암호화폐",
+      "url": "division_1_1.html?idx=78"
+    },
+    {
+      "idx": "79",
+      "pid": "10",
+      "title": "환경에너지",
+      "url": "division_1_1.html?idx=79"
+    },
+    {
+      "idx": "80",
+      "pid": "10",
+      "title": "바이오",
+      "url": "division_1_1.html?idx=80"
+    },
+    {
+      "idx": "84",
+      "pid": "10",
+      "title": "중대재해",
+      "url": "division_1_1.html?idx=84"
+    },
+    {
+      "idx": "86",
+      "pid": "10",
+      "title": "중대재해대응센터",
+      "url": "division_1_1.html?idx=86"
+    },
+    {
+      "idx": "93",
+      "pid": "10",
+      "title": "국방 · 방위산업",
+      "url": "division_1_1.html?idx=93"
+    },
+    {
+      "idx": "87",
+      "pid": "10",
+      "title": "중대재해 처벌 대응",
+      "url": "division_1_1.html?idx=87"
+    },
+    {
+      "idx": "88",
+      "pid": "10",
+      "title": "선거",
+      "url": "division_1_1.html?idx=88"
+    },
+    {
+      "idx": "97",
+      "pid": "10",
+      "title": "출입국·외국인 센터",
+      "url": "division_1_1.html?idx=97"
+    },
+    {
+      "idx": "101",
+      "pid": "10",
+      "title": "선거사건 대응",
+      "url": "division_1_1.html?idx=101"
+    }
+  ],
+  "division_2_1": [
+    {
+      "idx": "202",
+      "pid": "29",
+      "title": "집단분쟁대응팀",
+      "url": "division_2_1.html?idx=202"
+    },
+    {
+      "idx": "201",
+      "pid": "30",
+      "title": "다중피해사건 검경대응팀",
+      "url": "division_2_1.html?idx=201"
+    },
+    {
+      "idx": "109",
+      "pid": "15",
+      "title": "가상자산·금융 규제 대응팀",
+      "url": "division_2_1.html?idx=109"
+    },
+    {
+      "idx": "110",
+      "pid": "15",
+      "title": "딥페이크·사이버 범죄 대응 전담팀",
+      "url": "division_2_1.html?idx=110"
+    },
+    {
+      "idx": "190",
+      "pid": "30",
+      "title": "영장·포렌식팀",
+      "url": "division_2_1.html?idx=190"
+    },
+    {
+      "idx": "200",
+      "pid": "15",
+      "title": "개인정보 보호·통합보안팀",
+      "url": "division_2_1.html?idx=200"
+    },
+    {
+      "idx": "199",
+      "pid": "30",
+      "title": "경찰팀",
+      "url": "division_2_1.html?idx=199"
+    },
+    {
+      "idx": "198",
+      "pid": "22",
+      "title": "여성청소년범죄검경대응팀",
+      "url": "division_2_1.html?idx=198"
+    },
+    {
+      "idx": "197",
+      "pid": "26",
+      "title": "엔터테인먼트팀",
+      "url": "division_2_1.html?idx=197"
+    },
+    {
+      "idx": "194",
+      "pid": "23",
+      "title": "가족법센터",
+      "url": "division_2_1.html?idx=194"
+    },
+    {
+      "idx": "193",
+      "pid": "31",
+      "title": "환경에너지팀",
+      "url": "division_2_1.html?idx=193"
+    },
+    {
+      "idx": "192",
+      "pid": "31",
+      "title": "바이오팀",
+      "url": "division_2_1.html?idx=192"
+    }
+  ]
+}

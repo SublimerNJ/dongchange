@@ -1,0 +1,230 @@
+/* ==========================================================================
+   Dongin Law - News Skin Styles (skin/latest/news/style.css)
+   Extracted from inline <style> blocks on the live site (news_1.html)
+   Note: The original style.css file does not exist on the server — it
+   redirects to HTML. These styles are delivered inline in the page.
+   ========================================================================== */
+
+/* Board Detail - Mobile visibility */
+.board_detail .mo {
+  display: none;
+}
+
+/* Related Members */
+.related_members {
+  margin: 5px 0;
+  font-size: 0.9em;
+  color: #666;
+  line-height: 1.4;
+}
+
+.related_members a {
+  color: #000 !important;
+  text-decoration: none;
+  display: inline !important;
+  margin-right: 4px;
+  transition: color 0.2s ease;
+}
+
+.related_members a:hover {
+  color: #0073e6 !important;
+}
+
+/* Item Box Layout */
+.item_box ul > li {
+  margin-bottom: 20px;
+  padding: 0;
+}
+
+.item_inner {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.img_box {
+  flex: 0 0 220px;
+  max-width: 220px;
+}
+
+.img_box img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.text_box {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  line-height: 1.4;
+}
+
+.text_box p {
+  margin: 0;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.text_box span,
+.text_box b {
+  font-size: 0.9em;
+  color: #666;
+  margin: 0;
+}
+
+/* Auto Tags */
+.auto-tags {
+  margin-top: 8px;
+  margin-bottom: 15px;
+  line-height: 1.6;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+}
+
+.auto-tags .tag {
+  display: inline-block;
+  background: #f2f4f6;
+  color: #004a99;
+  font-size: 13px;
+  padding: 4px 10px;
+  border-radius: 12px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+
+/* Title Right Date */
+.title-right .date {
+  font-size: 14px;
+  color: #666;
+  white-space: nowrap;
+}
+
+/* News 1 Section */
+.news_1 .sc_1 .item_box ul li .text_box p {
+  margin-bottom: 0px;
+}
+
+@media (max-width: 767px) {
+  .auto-tags .tag:nth-child(n+4) {
+    display: none !important;
+  }
+}
+
+/* Option Buttons */
+.option_btns ul {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.option_btns ul li {
+  position: relative;
+}
+
+.option_btns ul li:hover .depth_02 {
+  display: block;
+}
+
+.option_btns ul li a {
+  display: block;
+  font-family: 'pretendard', sans-serif;
+  position: relative;
+  text-decoration: none;
+}
+
+.option_btns > ul > li > a img {
+  width: 100%;
+}
+
+.option_btns ul li a .tooltip {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  height: 24px;
+  background: #084784;
+  border-radius: 30px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #ffffff;
+  padding: 0 12px;
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.option_btns .depth_02 {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  z-index: 5;
+}
+
+.option_btns .depth_02 ul {
+  display: block;
+  border-radius: 50px;
+  background: #ffffff;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, .15);
+  padding: 20px 0;
+}
+
+.option_btns .depth_02 li a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 38px;
+  transition: all .2s;
+}
+
+.option_btns .depth_02 li a:hover {
+  background: rgba(201, 218, 232, .5);
+}
+
+@media all and (max-width: 767px) {
+  .option_btns > ul {
+    gap: 0 12px;
+  }
+
+  .option_btns > ul > li > a {
+    width: 34px;
+  }
+
+  .option_btns ul li a .tooltip {
+    font-size: 12px;
+  }
+
+  .option_btns .depth_02 ul {
+    padding: 10px 0;
+  }
+
+  .option_btns .depth_02 li a {
+    height: 30px;
+  }
+
+  .option_btns .depth_02 li a img {
+    width: 18px;
+  }
+}
+
+/* Chat Widget Positioning */
+#cs_btn {
+  z-index: 9999999999;
+}
+
+#HappytalkIframe {
+  position: relative;
+}
+
+#HappytalkIframe {
+  bottom: 13px !important;
+  right: 30px !important;
+}

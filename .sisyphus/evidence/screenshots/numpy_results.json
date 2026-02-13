@@ -1,0 +1,98 @@
+{
+  "about_1": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "about_2": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "about_3": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "about_4": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "about_5": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "benefit_1": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "benefit_2": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "division_1": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "division_1_1_15": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "division_2": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "index": {
+    "status": "PASS",
+    "similarity": 0.9831
+  },
+  "member_1": {
+    "status": "PRE-EXISTING",
+    "similarity": 0.7316
+  },
+  "member_2_746": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "news_1": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "news_1_1_162": {
+    "status": "PASS",
+    "similarity": 0.9959
+  },
+  "news_2": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "news_3": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "news_4": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "news_5": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "recruit_1": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "recruit_2": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "sitemap": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "term_1": {
+    "status": "PASS",
+    "similarity": 1.0
+  },
+  "term_2": {
+    "status": "PASS",
+    "similarity": 1.0
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "page": "member_1.html",
+  "timestamp": "2026-02-12T22:30:00",
+  "verification": {
+    "viewport_comparison": {
+      "method": "NumPy mean absolute difference",
+      "original": "/tmp/np_orig_viewport.png",
+      "replica": "/tmp/np_rep_viewport.png",
+      "dimensions": "1920x1080",
+      "score": 0.9714,
+      "threshold": 0.95,
+      "passed": true
+    },
+    "fullpage_comparison": {
+      "note": "Original shows 8 members (paginated, 2898px), replica shows all 241 members (42277px). Full-page comparison cropped to original height.",
+      "score": 0.7613,
+      "explanation": "Expected lower score due to fundamentally different page height (8 vs 241 members)"
+    }
+  },
+  "deliverables": {
+    "member_1.html": {
+      "exists": true,
+      "size_bytes": 271959,
+      "member_count": 241
+    },
+    "member-20-idx.json": {
+      "exists": true,
+      "path": ".sisyphus/data/member-20-idx.json"
+    }
+  },
+  "evidence_files": [
+    ".sisyphus/evidence/member1-orig-viewport.png",
+    ".sisyphus/evidence/member1-rep-viewport.png",
+    ".sisyphus/evidence/member1-diff-viewport.png",
+    ".sisyphus/evidence/member1-orig-fullpage.png",
+    ".sisyphus/evidence/member1-rep-fullpage.png"
+  ]
+}

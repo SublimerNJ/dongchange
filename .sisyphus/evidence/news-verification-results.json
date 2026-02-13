@@ -1,0 +1,32 @@
+{
+  "news_1": {
+    "similarity": 1.0,
+    "passed": true,
+    "local_size": "3531x1920",
+    "live_size": "3531x1920"
+  },
+  "news_2": {
+    "similarity": 1.0,
+    "passed": true,
+    "local_size": "2713x1920",
+    "live_size": "2713x1920"
+  },
+  "news_3": {
+    "similarity": 1.0,
+    "passed": true,
+    "local_size": "3366x1920",
+    "live_size": "3366x1920"
+  },
+  "news_4": {
+    "similarity": 1.0,
+    "passed": true,
+    "local_size": "3019x1920",
+    "live_size": "3019x1920"
+  },
+  "news_5": {
+    "similarity": 1.0,
+    "passed": true,
+    "local_size": "2253x1920",
+    "live_size": "2253x1920"
+  }
+}

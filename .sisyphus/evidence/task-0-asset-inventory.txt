@@ -1,0 +1,137 @@
+============================================================
+TASK 0: ASSET COLLECTION & INFRASTRUCTURE VERIFICATION
+Date: 2026-02-12
+============================================================
+
+PHASE 1: SUB-PAGE HTML COLLECTION
+----------------------------------
+Total HTMLs fetched: 20/20 ✅
+Location: .sisyphus/data/html/
+
+Pages downloaded:
+  about_1.html (40553 bytes)
+  about_2.html (43641 bytes)
+  about_3.html (37170 bytes)
+  about_4.html (37026 bytes)
+  about_5.html (40510 bytes)
+  division_1.html (58683 bytes)
+  division_2.html (60590 bytes)
+  member_1.html (54567 bytes)
+  news_1.html (54036 bytes)
+  news_2.html (61829 bytes)
+  news_3.html (54515 bytes)
+  news_4.html (95036 bytes)
+  news_5.html (55473 bytes)
+  benefit_1.html (42089 bytes)
+  benefit_2.html (42601 bytes)
+  recruit_1.html (38497 bytes)
+  recruit_2.html (49981 bytes)
+  term_1.html (28733 bytes)
+  term_2.html (28226 bytes)
+  sitemap.html (32627 bytes)
+
+PHASE 2: SUB-PAGE IMAGES (img/)
+---------------------------------
+Before: 57 files
+After:  153 files
+New images downloaded: 96
+
+Sources:
+  - HTML <img src> references: 61 new files
+  - CSS background-image url() references: 35 new files
+
+Key image categories downloaded:
+  ✅ breadcrumb_home_icon.svg, breadcrumb_arrow.svg
+  ✅ sub_util_1.svg through sub_util_4.svg
+  ✅ sub_banner_*.png (greeting, philosophy, brochure, history)
+  ✅ about_1_sc_*.jpg (section content images + mobile variants)
+  ✅ about_3_sc_*.jpg, about_4_sc_*.jpg, about_5_sc_*.png
+  ✅ option_btns_05/06/08/09.svg
+  ✅ kakaotalk_sharing_btn_small.png
+  ✅ division_*_sub_banner_bg.jpg, division_1_sc_1_title_bg_*.jpg
+  ✅ division_1_minus.svg, division_1_plus.svg
+  ✅ benefit_sc_2_img_*.png, benefit_1_sc_3_bg.jpg
+  ✅ news_*_sub_banner_bg.jpg, news_3_sc_2_img_*.jpg
+  ✅ recruit_sc_1_img_*.png, recruit_1_sc_2_bg.jpg, recruit_2_sc_2_img.jpg
+  ✅ member_sub_banner_bg.jpg
+  ✅ term_sub_banner_bg.jpg
+  ✅ pagi_next.svg, pagi_last.svg
+  ✅ download_icon.svg, file_upload_icon_b.svg, relate_icon.svg
+  ✅ chevron_right_b.svg, chevron_right_g.svg
+  ✅ info_icon_b.svg, ask_icon_b.svg, cs_icon_w.svg
+  ✅ 1.png, 2.png, 3.png, 4.png (numbered images)
+
+Failed downloads: 0
+
+PHASE 3: MEMBER PHOTOS (data/file/31/)
+----------------------------------------
+Total member photos: 241
+Pages crawled: 31 (8 members per page)
+All downloads successful: ✅
+Failed downloads: 0
+
+PHASE 4: SKIN CSS FILES
+-------------------------
+skin/latest/member/style.css: Does NOT exist on live server (0 bytes)
+No <link> tags referencing skin/ CSS found in any sub-page HTML.
+All sub-page styles are contained within css/main.css.
+Skin CSS download: N/A (not needed)
+
+PHASE 5: DIVISION & OTHER DATA/FILE IMAGES
+---------------------------------------------
+data/file/21_type/: 10 files (division_1 accordion type images)
+data/file/21_view2/: 12 files (division_2 view images)
+data/file/52/: 10 files (benefit_2 gallery images)
+All downloads successful: ✅
+
+PHASE 6: CSS/JS VERIFICATION
+-------------------------------
+css/main.css:
+  Sub-page class matches: 199
+  Local size: 154000 bytes (2311 lines)
+  Live size: 152967 bytes (2294 lines)
+  Status: Local is superset of live ✅ (extra lines from main page work)
+  Sub-page classes present: sub_banner, breadcrumb, member_list,
+    division_sc, board_list, benefit_sc, recruit_sc, acc_row, acc_content
+
+js/main.js:
+  Size: 10253 bytes (exact match with live) ✅
+  Accordion handler: ✅ (line 232 — .acc_row toggle)
+  Breadcrumb dropdown: ✅ (lines 282-291)
+  Side navigation: ✅ (lines 268-272)
+  GNB dropdown: ✅ (lines 63-80)
+  Language dropdown: ✅ (line 128)
+  Member sort/filter: Inline per-page (not in main.js — expected)
+
+All JS files present:
+  ✅ js/common.js
+  ✅ js/html5.js (downloaded this session)
+  ✅ js/jquery-1.12.4.min.js
+  ✅ js/jquery-3.7.1.min.js
+  ✅ js/jquery-migrate-1.4.1.min.js
+  ✅ js/jquery.menu.js
+  ✅ js/main.js
+  ✅ js/placeholders.min.js
+  ✅ js/wrest.js
+  ✅ js/inline-scripts.js
+  ✅ js/jquery.bxslider.js
+
+External CDN JS (not downloaded — loaded from CDN):
+  - swiper-bundle.min.js (cdn.jsdelivr.net)
+  - aos.js (unpkg.com)
+  - kakao.min.js (developers.kakao.com)
+
+SUMMARY
+--------
+Total assets collected:
+  img/: 153 files (57 existing + 96 new)
+  data/file/31/: 241 member photos (all new)
+  data/file/21_type/: 10 division images (all new)
+  data/file/21_view2/: 12 division images (all new)
+  data/file/52/: 10 benefit images (all new)
+  js/html5.js: 1 file (newly downloaded)
+  .sisyphus/data/html/: 20 reference HTMLs
+
+Total new files: 370
+Failed downloads: 0
+Infrastructure verification: PASS ✅
